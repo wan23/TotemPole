@@ -1,14 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotemPole", "Assembly-CSharp.csproj", "{D2F2A102-D16B-6970-C122-0231C8B5BF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotemPole", "Assembly-CSharp-firstpass.csproj", "{DEE9E07D-42E5-2751-48BD-4FF66BE9B707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotemPole", "Assembly-CSharp-Editor-firstpass.csproj", "{53B8A0FB-FFA6-C721-3745-5064DA2B1D56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{D2F2A102-D16B-6970-C122-0231C8B5BF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F2A102-D16B-6970-C122-0231C8B5BF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F2A102-D16B-6970-C122-0231C8B5BF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F2A102-D16B-6970-C122-0231C8B5BF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE9E07D-42E5-2751-48BD-4FF66BE9B707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE9E07D-42E5-2751-48BD-4FF66BE9B707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE9E07D-42E5-2751-48BD-4FF66BE9B707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE9E07D-42E5-2751-48BD-4FF66BE9B707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B8A0FB-FFA6-C721-3745-5064DA2B1D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B8A0FB-FFA6-C721-3745-5064DA2B1D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B8A0FB-FFA6-C721-3745-5064DA2B1D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B8A0FB-FFA6-C721-3745-5064DA2B1D56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
